@@ -1,4 +1,4 @@
-FCU:E,K
-the key:er, er.
-jfiagsl:er, er
-Enter key:Enter values (comma-separated)
+ahu:air handling unit (AHU),air handling unit  (AHU); handles air
+ef:exhaust fan (EF),exhaust fan  (EF); handles exhaust and filtering
+vav:variable air volume (VAV),variable air volume  (VAV); box for air control
+fcu:Fan Coil Unit (FCU),Fan Coil Unit  (FCU); Small terminal unit that uses a heat exchanger and a fan to work
