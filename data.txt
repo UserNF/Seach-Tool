@@ -1,0 +1,4 @@
+FCU:E,K
+the key:er, er.
+jfiagsl:er, er
+Enter key:Enter values (comma-separated)
