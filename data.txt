@@ -1,4 +1,4 @@
-ahu:air handling unit (AHU),air handling unit  (AHU); handles air
-ef:exhaust fan (EF),exhaust fan  (EF); handles exhaust and filtering
-vav:variable air volume (VAV),variable air volume  (VAV); box for air control
-fcu:Fan Coil Unit (FCU),Fan Coil Unit  (FCU); Small terminal unit that uses a heat exchanger and a fan to work
+fcu:Fan Coil Unit (FCU),Fan Coil Unit (FCU); Small terminal unit that uses a heat exchanger and a fan to generate heating or cooling for a space.
+ef:Exhaust Fan (EF),Exhaust Fan (EF); Removes unpleasant odors like steam or smoke from rooms and reduces mold.
+uh:Unit Heater (UH),Unit Heater (UH); A unit heater has a heating element, a blower fan, and a heat exchanger that is designed to warm a space.
+dhw:Domestic Hot Water System (DHW),Domestic Hot Water System (DHW); Delivers hot water to people at sinks, tubs, and other areas that humans interact.
