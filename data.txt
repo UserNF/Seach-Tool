@@ -2,3 +2,4 @@ fcu:Fan Coil Unit (FCU),Fan Coil Unit (FCU); Small terminal unit that uses a hea
 ef:Exhaust Fan (EF),Exhaust Fan (EF); Removes unpleasant odors like steam or smoke from rooms and reduces mold.
 uh:Unit Heater (UH),Unit Heater (UH); A unit heater has a heating element, a blower fan, and a heat exchanger that is designed to warm a space.
 dhw:Domestic Hot Water System (DHW),Domestic Hot Water System (DHW); Delivers hot water to people at sinks, tubs, and other areas that humans interact.
+adfsj:adsf (ADFSJ),adsf (ADFSJ); afds
