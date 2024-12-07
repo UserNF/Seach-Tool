@@ -4,3 +4,4 @@ ef:Exhaust Fan (EF),Exhaust Fan (EF) = Removes unpleasant odors like steam or sm
 uh:Unit Heater (UH),Unit Heater (UH) = A unit heater has a heating element, a blower fan, and a heat exchanger that is designed to warm a space.
 dhw:Domestic Hot Water System (DHW),Domestic Hot Water System (DHW) = Delivers hot water to people at sinks, tubs, and other areas that humans interact.
 jierl:jadsif (JIERL),jadsif (JIERL) = jafsi
+djfg:jfk (DJFG),jfk (DJFG)= dfskj
