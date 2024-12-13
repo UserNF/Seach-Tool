@@ -3,5 +3,5 @@ fcu:Fan Coil Unit (FCU),Fan Coil Unit (FCU) = Small terminal unit that uses a he
 ef:Exhaust Fan (EF),Exhaust Fan (EF) = Removes unpleasant odors like steam or smoke from rooms and reduces mold.
 uh:Unit Heater (UH),Unit Heater (UH) = A unit heater has a heating element, a blower fan, and a heat exchanger that is designed to warm a space.
 dhw:Domestic Hot Water System (DHW),Domestic Hot Water System (DHW) = Delivers hot water to people at sinks, tubs, and other areas that humans interact.
-jierl:jadsif (JIERL),jadsif (JIERL) = jafsi
-djfg:jfk (DJFG),jfk (DJFG)= dfskj
+lsr:Life Saving Rule (LSR),Life Saving Rule (LSR)= Coaching lagging to goal
+neo:Drive New Employee Orientation (NEO),Drive New Employee Orientation (NEO)= Introducing new employees
